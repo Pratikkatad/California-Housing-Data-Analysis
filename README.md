@@ -1,7 +1,7 @@
 # California Housing Data Analysis
 
 ## Description:
-In this project, Analyze a dataset containing information about housing in California. The dataset provides various features related to housing, including median income, housing median age, total bedrooms, median house values, ocean proximity, and more. Goal is to explore and analyze this dataset to gain insights into California's housing market. Use Python and data visualization libraries to answer specific questions and provide explanations for our findings.
+In this project, analyze a dataset containing information about housing in California. The dataset provides various features related to housing, including median income, housing median age, total bedrooms, median house values, ocean proximity, and more. Goal is to explore and analyze this dataset to gain insights into California's housing market. Use Python and data visualization libraries to answer specific questions and provide explanations for our findings.
 
 ## Questions :
 
