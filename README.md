@@ -1,7 +1,7 @@
 # California Housing Data Analysis
 
 ## Description:
-In this project, we will analyze a dataset containing information about housing in California. The dataset provides various features related to housing, including median income, housing median age, total bedrooms, median house values, ocean proximity, and more. Our goal is to explore and analyze this dataset to gain insights into California's housing market. We will use Python and data visualization libraries to answer specific questions and provide explanations for our findings.
+In this project, Analyze a dataset containing information about housing in California. The dataset provides various features related to housing, including median income, housing median age, total bedrooms, median house values, ocean proximity, and more. Goal is to explore and analyze this dataset to gain insights into California's housing market. Use Python and data visualization libraries to answer specific questions and provide explanations for our findings.
 
 ## Questions :
 
@@ -43,4 +43,4 @@ In this project, we will analyze a dataset containing information about housing 
 
 10. Please create a new column named total_bedroom_size. If the total bedrooms is 10 or less, it should be quoted as small. If the total bedrooms is 11 or more but less than 1000, it should be medium, otherwise it should be considered large.
 
-The project will include Python code, data visualization, and explanations for each step to ensure a clear understanding of the dataset and the insights gained from the analysis.
+The project include Python code, data visualization, and explanations for each step to ensure a clear understanding of the dataset and the insights gained from the analysis.
